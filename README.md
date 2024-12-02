@@ -100,7 +100,7 @@ alembic.ini                 # Конфигурация Alembic для мигра
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/Raynece/book-library-api.git
+   git clone https://github.com/Raynece/TestTaskWithFastAPI.git
    cd book-library-api
    ```
 
